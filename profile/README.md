@@ -15,8 +15,8 @@ All the code associated with the main SoIB report analyses are open source and a
 SoIB is a partnership of the following governmental and non-governmental organisations:
 
 - Ashoka Trust for Research in Ecology and the Environment (ATREE)
-- Centre for Ecological Sciences, Indian Institute of Science (CES, IISc)
 - Bombay Natural History Society (BNHS)
+- Centre for Ecological Sciences, Indian Institute of Science (CES, IISc)
 - Foundation for Ecological Security (FES)
 - National Biodiversity Authority (NBA)
 - National Centre for Biological Sciences, Tata Institute of Fundamental Research (NCBS-TIFR)
