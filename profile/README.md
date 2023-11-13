@@ -8,7 +8,7 @@ After a gap of three years, the second edition of the report (SoIB 2023) extends
 
 ### The repositories
 
-All the code associated with the main SoIB report analyses are open source and available in _this repo_. In addition to this, there are other repositories for auxiliary analyses or offshoot projects using the comprehensive SoIB dataset of abundance trends and range sizes of Indian birds.
+All the code associated with the main SoIB report analyses are open source and available in [this repo](https://github.com/stateofindiasbirds/soib_2023). In addition to this, there are other repositories for auxiliary analyses or offshoot projects using the comprehensive SoIB dataset of abundance trends and range sizes of Indian birds.
 
 ### The SoIB partnership
 
